@@ -35,7 +35,7 @@ function Future() {
       {/* RIGHT SECTION (Image) */}
       <div className="flex-1 flex justify-center md:justify-end mt-10 md:mt-20 mr-50 max-sm:mr-0">
         <img
-          src="./src/assets/Images/d3.jpg"
+          src="/Img/d3.jpg"
           alt="About us"
           className="w-[800px] rounded-2xl shadow-lg max-sm:w-full max-sm:max-w-[350px]"
         />

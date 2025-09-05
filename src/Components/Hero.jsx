@@ -60,7 +60,7 @@ function Hero() {
                     <div className='relative hidden lg:flex justify-center mt-8 lg:mt-24 lg:mr-20'>
                         <div className="w-[600px] h-[320px] bg-[#A5CCFF] rounded-t-full relative top-[75px]"></div>
                         <img 
-                            src="./src/assets/Images/d1.png" 
+                            src="/Img/d1.png" 
                             alt="Doctor" 
                             className='absolute z-10 w-[450px] right-10 -top-37'
                         />

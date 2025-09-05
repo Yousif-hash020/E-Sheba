@@ -6,7 +6,7 @@ function Choose() {
       {/* LEFT SIDE IMAGE */}
       <div className='flex-1 flex justify-center md:justify-start ml-0 md:ml-20 lg:ml-58 mb-10 md:mb-0'>
         <img
-          src="/Images/d2.jpg"
+          src="/Img/d2.jpg"
           alt="Doctor"
           className='w-full max-w-md rounded-2xl shadow-lg'
         />
