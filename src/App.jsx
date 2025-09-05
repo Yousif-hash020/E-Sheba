@@ -6,7 +6,7 @@ import Choose from './Components/Choose';
 import Aboutus from './Components/Aboutus';
 import Future from './Components/Future';
 import Newsletter from './Components/Newsletter';
-import Footer from './Components/footer';
+import Foter from './Components/Foter';
 
 
 
@@ -83,7 +83,7 @@ const supplementSvg = (
 
     < Newsletter/>
 
-    <Footer/>
+    <Foter/>
 
 
 
