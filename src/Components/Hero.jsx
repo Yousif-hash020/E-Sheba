@@ -11,10 +11,28 @@ function Hero() {
                 <div className='flex flex-col lg:flex-row justify-between items-center lg:items-start flex-1'>
                     <div className='flex flex-col w-full'>
                         <div className='ml-6 sm:ml-12 md:ml-20 lg:ml-31 mt-10 sm:mt-16 md:mt-20 lg:mt-24'>
-                            <h1 className='text-3xl sm:text-4xl md:text-5xl lg:text-6xl mb-4 font-bold'>
-                                Find & Search Your <br />
-                                <span className='text-blue-500'>Favourite</span> Doctor
-                            </h1>
+    <h1 className='text-3xl sm:text-4xl md:text-5xl lg:text-6xl mb-4 font-bold'>
+  Find & Search Your <br />
+  <span className='relative inline-block text-blue-500'>
+    Favourite
+    <svg
+      className="absolute left-1/2 -translate-x-1/2 w-[105%] h-[12px]  "
+      viewBox="0 0 100 10"
+      preserveAspectRatio="none"
+      aria-hidden="true"
+    >
+      <path
+        d="M2,8 Q50,0 98,8"
+        fill="none"
+        stroke="currentColor"
+        strokeWidth="3"
+        strokeLinecap="round"
+      />
+    </svg>
+  </span>{" "}
+  Doctor
+</h1>
+
                             <p className='text-xs sm:text-sm text-gray-600 mb-8 sm:mb-12 md:mb-16 lg:mb-20'>
                                 Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
                                 <br className='sm:hidden' />

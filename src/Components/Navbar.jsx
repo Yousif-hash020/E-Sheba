@@ -8,7 +8,7 @@ function Navbar() {
             <div className='flex justify-between items-center w-full h-20 px-6 lg:px-12'>
                 <div>
                     <h1 className='text-2xl font-bold lg:ml-20'>
-                        E-<span className='text-blue-500'>sheba</span>
+                        E-<span className='text-blue-500'>Sheba</span>
                     </h1>
                 </div>
 
