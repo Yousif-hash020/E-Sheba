@@ -16,7 +16,7 @@ function Hero() {
   <span className='relative inline-block text-blue-500'>
     Favourite
     <svg
-      className="absolute left-1/2 -translate-x-1/2 w-[105%] h-[12px]  "
+      className="absolute left-1/2 -translate-x-1/2 w-[105%] h-[12px] max-sm:hidden "
       viewBox="0 0 100 10"
       preserveAspectRatio="none"
       aria-hidden="true"
